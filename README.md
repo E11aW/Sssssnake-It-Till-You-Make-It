@@ -1,4 +1,3 @@
-# Sssssnake-It-Till-You-Make-It
 ## INSPIRATION
 _Sssssnake It Till You Make_ It is all about coziness, connection, and community as we learn to navigate a world laden with AI. Our game encourages users to be uniquely themselves in a world of machines! We were inspired by people’s need for connection and emotion, and wanted to represent it in a simple and fun way through a snake dress up game! We wanted to make a game people could come to whenever they feel down and need something fun to escape to; their snake friend will always be there waiting to welcome them back! Another major inspiration was ourselves and our friend group! The game is littered with tons of inside jokes and references to us.
 
@@ -12,9 +11,7 @@ _Sssssnake It Till You Make It_ was built in C# in Unity. We used a combination 
 Unity was a new software/game engine for about half of our team. We ran into difficulties setting up a collaborative project and spent most of the first day trying to set up our environment and share changes properly. 
 
 ## ACCOMPLISHMENTS WE'RE PROUD OF
-One of the aspects we are most proud of is all the little details scattered throughout the game that show real humans made every bit of it. Every short “snake story” and accessory you can put on your snake was made by one of us. This is even further emphasized by the drawings being drawn on paper and then scanned in digitally. 
-
-This project is undeniably us, inspired by inside jokes and shared memories within our friend group! 
+One of the aspects we are most proud of is all the little details scattered throughout the game that show real humans made every bit of it. Every short “snake story” and accessory you can put on your snake was made by one of us. This is even further emphasized by the drawings being drawn on paper and then scanned in digitally. This project is undeniably us, inspired by inside jokes and shared memories within our friend group! 
 
 ## WHAT WE LEARNED
 This project taught us a lot about trial and error, troubleshooting, and adapting when things don’t go as planned. Even though we greatly struggled to get our project set up for all team members initially, we stayed motivated and put our heads together to create something that we can be proud of and truly represents our chaotic, quirky, and all-over-the-place friend group.
